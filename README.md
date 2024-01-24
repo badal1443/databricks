@@ -2,11 +2,11 @@
 Data Lakehouse and Databricks concepts and technology implementations.
 
 
-Terms to understand and learn:
-Big Data
-Data Silos
-Data Warehouses
-Data Lakes
-2 tier architecture
-Data Lakehouse
-Open Data Managament system.
+1. Terms to understand and learn:
+2. Big Data
+3. Data Silos
+4. Data Warehouses
+5. Data Lakes
+6. 2 tier architecture
+7. Data Lakehouse
+8. Open Data Managament system.
